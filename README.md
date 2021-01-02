@@ -80,7 +80,7 @@
 | Name  | Description  | Link
 |:----------|:----------|:----------|
 | RaspberryPi Imager  | We will need it to erase & format the MicroSD  |  [https://www.raspberrypi.org/software/](https://www.raspberrypi.org/software/)
-Smoothwall patched for RaspberryPi 4 with update 11| The Smoothwall Open Source Project was set up in 2000 to develop and maintain Smoothwall Express - a Free firewall that includes its own security-hardened GNU/Linux operating system and an easy-to-use web interface, you can read more at [https://smoothwall.org](https://smoothwall.org)| [http://agcl.us/shortie/Express-3.1-SP5-pi4-64.zip](http://agcl.us/shortie/Express-3.1-SP5-pi4-64.zip) or from Mirror(hosted by me) [http://teodorcucu.net/downloads/Express-3.zip](http://teodorcucu.net/downloads/Express-3.zip)|
+Smoothwall patched for RaspberryPi 4 with update 11| The Smoothwall Open Source Project was set up in 2000 to develop and maintain Smoothwall Express - a Free firewall that includes its own security-hardened GNU/Linux operating system and an easy-to-use web interface, you can read more at [https://smoothwall.org](https://smoothwall.org)| [http://agcl.us/shortie/Express-3.1-SP5-pi4-64.zip](http://agcl.us/shortie/Express-3.1-SP5-pi4-64.zip) or from Mirror(hosted by me) [https://teodorcucu.net/download/Express-3.zip](https://teodorcucu.net/download/Express-3.zip)|
 
 **Credits**
 
